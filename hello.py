@@ -1,6 +1,16 @@
-# msg = "This is hello world message"
+# ** exponent
+msg = "This is hello world message"
+print("first hello world")
 
-msg = 5
-msg2 = "5"
-msg2 = msg + msg2
+
 print(msg)
+
+a = 1
+b = 2
+c = 3
+
+if a > 2:
+    print(a)
+elif a < 2:
+    print(c)
+
