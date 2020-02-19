@@ -1,4 +1,4 @@
-# ** exponent
+# ** exponent   PUG: python user group NYU
 # msg = "This is hello world message"
 # print("first hello world")
 
@@ -33,9 +33,11 @@
 # print(multi_list[-1])
 
 
-prime_numbers = [2, 3, 5, 7, 11]
-outputStr = ""
 
+
+prime_numbers = [2, 3, 5, 7, 11]
+
+# string interpolation
 for each_num in prime_numbers:
     print(f"The square of {each_num} is {each_num**2}")
     
